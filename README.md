@@ -1,9 +1,9 @@
 # BiteInternshipTask
  
 ## Preface
-    Just before you look into the code, this is my first time using PHP. 
-    Constructive criticism welcome :)
-
+ Just before you look into the code, this is my first time using PHP. 
+ Constructive criticism welcome :)
+---
 ## Task Description:
 1. Read a list of integers from the provided 'input.txt' file (one number per line)
 2. Sort the list in ascending order
@@ -24,6 +24,7 @@
 1. Reads from data.txt numbers and adds to an array
 2. The array is sorted just using the sort() function
 3. Lets you add/subtract 5 from the highest number ( only once:) )
+![Website Image](https://github.com/KarolisSimkus/BiteInternshipTask/blob/main/Images/Image1.png)
 
 ## What this program is lacking:
 - Correctness of the algorithm implementation
