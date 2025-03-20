@@ -1,6 +1,6 @@
 # BiteInternshipTask
  
-### Preface
+## Preface
     Just before you look into the code, this is my first time using PHP. 
     Constructive criticism welcome :)
 
@@ -20,3 +20,15 @@
 2. Clone this repository to your web server's document root
 3. Access the application via your local web server
 
+## How It Works:
+1. Reads from data.txt numbers and adds to an array
+2. The array is sorted just using the sort() function
+3. Lets you add/subtract 5 from the highest number ( only once:) )
+
+## What this program is lacking:
+- Correctness of the algorithm implementation
+- Understanding of time/space complexity
+- Proper use of PHP for backend processing
+- Efficient implementation of the increment/decrement functionality
+- Code organization and readability
+- Error handling
